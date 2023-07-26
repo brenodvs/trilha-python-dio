@@ -7,3 +7,6 @@ linguagens = (
 )
 
 print(len(linguagens))  # 5
+
+carros = ("gol")
+print(isinstance(carros, tuple))

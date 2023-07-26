@@ -1,3 +1,5 @@
+#lista são mutaveis e tuplas são imutavais
+
 frutas = (
     "laranja",
     "pera",
